@@ -2,13 +2,6 @@
 ##
 Aula de Operadores JavaScript
 
-Tipo de operadores utilizados no JavaScript
-![image](https://user-images.githubusercontent.com/91488719/149817218-f871dae0-0e5f-43da-8ee4-74ff8b5926a9.png)
-![image](https://user-images.githubusercontent.com/91488719/149817239-71dfc8a1-cceb-4f9f-8d44-a57068ceadcc.png)
-![image](https://user-images.githubusercontent.com/91488719/149817283-befb3007-a1b8-46eb-b7d3-69280ccf4475.png)
-
-
-
 #Exercício
 ## Sintaxe e Operadores
 
